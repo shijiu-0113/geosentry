@@ -1,5 +1,4 @@
-﻿corpus/
-__pycache__/
+﻿__pycache__/
 *.pyc
 _patch*.py
 _collect.py
