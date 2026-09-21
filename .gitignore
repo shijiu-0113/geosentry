@@ -1,0 +1,11 @@
+﻿corpus/
+__pycache__/
+*.pyc
+_patch*.py
+_collect.py
+_push_*.json
+docs/
+data/
+.cache/
+.pytest_cache/
+*.zip

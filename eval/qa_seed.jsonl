@@ -1,0 +1,52 @@
+{"q": "robots.txt 是干什么的，怎么用它限制爬虫访问？", "doc": "intro", "kw": ["robots.txt", "Googlebot", "crawler"]}
+{"q": "robots.txt 有哪些做不到的限制？", "doc": "intro", "kw": ["robots.txt", "block"]}
+{"q": "sitemap 是什么，怎么让搜索引擎发现我的页面？", "doc": "overview", "kw": ["sitemap", "URL"]}
+{"q": "sitemap 有哪些格式？", "doc": "overview", "kw": ["sitemap", "format"]}
+{"q": "重复内容会导致什么问题，怎么合并重复 URL？", "doc": "consolidate-duplicate-urls", "kw": ["duplicate", "URL"]}
+{"q": "canonical 标签怎么用？", "doc": "consolidate-duplicate-urls", "kw": ["canonical"]}
+{"q": "301 重定向有什么作用？", "doc": "301-redirects", "kw": ["301", "redirect"]}
+{"q": "title 标签怎么写比较好？", "doc": "title-link", "kw": ["title"]}
+{"q": "meta description 会出现在搜索结果里吗，影响排名吗？", "doc": "snippet", "kw": ["description", "snippet"]}
+{"q": "结构化数据是什么，怎么开始使用？", "doc": "intro-structured-data", "kw": ["structured data", "JSON-LD"]}
+{"q": "Rich Results Test 是做什么的？", "doc": "intro-structured-data", "kw": ["Rich Results Test"]}
+{"q": "JavaScript 网站做 SEO 要注意什么？", "doc": "javascript", "kw": ["JavaScript", "Googlebot"]}
+{"q": "Google 是怎么爬取、索引和排序网页的？", "doc": "how-search-works", "kw": ["crawl", "index", "rank"]}
+{"q": "网站流量突然大幅下降可能是什么原因？", "doc": "debugging-search-traffic-drops", "kw": ["traffic", "drop"]}
+{"q": "电商网站 SEO 应该怎么做？", "doc": "ecommerce", "kw": ["product", "ecommerce"]}
+{"q": "面向多个国家的网站怎么优化？", "doc": "international", "kw": ["country", "language", "hreflang"]}
+{"q": "图片搜索 SEO 怎么优化？", "doc": "google-images", "kw": ["image", "alt"]}
+{"q": "视频内容怎么做 SEO？", "doc": "video", "kw": ["video"]}
+{"q": "什么是 helpful people-first content？", "doc": "seo-starter-guide", "kw": ["helpful", "people-first"]}
+{"q": "生成式 AI 搜索时代 SEO 还重要吗？", "doc": "ai-optimization-guide", "kw": ["SEO", "generative"]}
+{"q": "llms.txt 文件会影响 Google 搜索排名吗？", "doc": "ai-optimization-guide", "kw": ["llms.txt"]}
+{"q": "为了 AI 需要把内容切成很小的块吗？", "doc": "ai-optimization-guide", "kw": ["chunking"]}
+{"q": "AEO 和 GEO 与 SEO 是什么关系？", "doc": "ai-optimization-guide", "kw": ["AEO", "GEO"]}
+{"q": "AI Overviews 和 AI Mode 的数据来自哪里？", "doc": "ai-optimization-guide", "kw": ["AI Overviews", "AI Mode"]}
+{"q": "什么是 scaled content abuse 政策？", "doc": "spam-policies", "kw": ["scaled content"]}
+{"q": "什么是 cloaking 伪装？", "doc": "spam-policies", "kw": ["cloaking"]}
+{"q": "购买链接违反 Google 政策吗？", "doc": "spam-policies", "kw": ["link spam", "nofollow"]}
+{"q": "site reputation policy 是什么？", "doc": "spam-policies", "kw": ["site reputation"]}
+{"q": "什么是 doorway pages？", "doc": "spam-policies", "kw": ["doorway"]}
+{"q": "第三方内容发布在网站上何时违反政策？", "doc": "spam-policies", "kw": ["third-party"]}
+{"q": "preferred sources 是什么功能？", "doc": "preferred-sources", "kw": ["preferred sources"]}
+{"q": "Search Console 怎么开始使用？", "doc": "search-console-start", "kw": ["Search Console"]}
+{"q": "Search Console 的生成式 AI 性能报告在哪里看？", "doc": "gen-ai-performance-reports", "kw": ["performance", "AI Overviews"]}
+{"q": "Google Analytics 和 Search Console 有什么区别？", "doc": "google-analytics-search-console", "kw": ["Analytics", "Search Console"]}
+{"q": "怎么让 Google 重新抓取更新过的页面？", "doc": "ask-google-to-recrawl", "kw": ["recrawl", "crawl"]}
+{"q": "我的网站需要做 SEO 吗？", "doc": "do-i-need-seo", "kw": ["need", "SEO"]}
+{"q": "SEO 新手应该从哪里开始？", "doc": "seo-starter-guide", "kw": ["starter", "beginner"]}
+{"q": "什么是 featured snippet 精选摘要？", "doc": "snippet", "kw": ["featured snippet"]}
+{"q": "网页出现在 Google 搜索里的基本要求是什么？", "doc": "essentials", "kw": ["Essentials"]}
+{"q": "怎么让 Google 收录我的网站？", "doc": "get-on-google", "kw": ["get on Google", "index"]}
+{"q": "favicon 在搜索结果里起什么作用？", "doc": "favicon-in-search", "kw": ["favicon"]}
+{"q": "怎么分析社交媒体和视频内容在搜索里的表现？", "doc": "analyze-social-video-content", "kw": ["social", "video"]}
+{"q": "noindex 和 robots.txt 阻止收录有什么区别？", "doc": "special-tags", "kw": ["noindex", "robots.txt"]}
+{"q": "HTML title 元素的语义是什么？", "doc": "title", "kw": ["title"]}
+{"q": "HTML meta 标签有哪些用途？", "doc": "meta", "kw": ["meta"]}
+{"q": "HTML a 链接元素的 href 属性怎么用？", "doc": "link", "kw": ["href", "link"]}
+{"q": "llms.txt 规范文件应该怎么编写？", "doc": "llmstxt-spec", "kw": ["llms.txt"]}
+{"q": "有哪些主要的 AI 爬虫需要管理？", "doc": "ai-crawlers", "kw": ["GPTBot", "ClaudeBot", "PerplexityBot"]}
+{"q": "GEO 生成引擎优化最早的研究讲了什么？", "doc": "geo-arxiv-2311-09735", "kw": ["GEO"]}
+{"q": "搜索结果里有哪些展示形态？", "doc": "search-gallery", "kw": ["gallery", "rich result"]}
+{"q": "无内容站点如何保证不被当作 spam？", "doc": "spam-policies", "kw": ["spam"]}
+{"q": "如何在 SEO 中应对 AI 爬虫的抓取？", "doc": "ai-crawlers", "kw": ["robots.txt", "Disallow"]}

@@ -1,0 +1,53 @@
+﻿============================================================
+目标: https://hbyagada.com
+============================================================
+
+首页 https://hbyagada.com/
+  HTTP 200 | 85325 bytes | server: nginx/1.26.3
+  redirect: -
+
+robots.txt -> HTTP 200
+  User-agent: *
+  Allow: /
+  Crawl-delay: 1
+  Disallow: /admin/
+  Disallow: /api/
+  User-agent: GPTBot
+  Allow: /
+  User-agent: ChatGPT-User
+  Allow: /
+  User-agent: Claude-Web
+  Allow: /
+  User-agent: ClaudeBot
+  Allow: /
+  User-agent: Claude-SearchBot
+  Allow: /
+  User-agent: anthropic-ai
+  Allow: /
+  User-agent: PerplexityBot
+  Allow: /
+  User-agent: Perplexity
+  Allow: /
+  User-agent: Google-Extended
+  Allow: /
+  User-agent: Applebot-Extended
+  Allow: /
+
+sitemap.xml -> HTTP 200
+  <loc> 总数: 108
+   - https://hbyagada.com/
+   - https://hbyagada.com/about
+   - https://hbyagada.com/ask
+   - https://hbyagada.com/ask/best-flange-supplier-power-plant-china
+   - https://hbyagada.com/ask/how-do-i-import-pipe-flanges-from-china
+   - https://hbyagada.com/ask/where-to-buy-asme-b16-5-flanges-ped-ce-marked
+   - https://hbyagada.com/ask/where-to-supply-16mndr-lng-cryogenic-flanges
+   - https://hbyagada.com/ask/who-manufactures-nace-mr0175-flanges-china
+   - https://hbyagada.com/ask/how-do-i-import-pipe-flanges-from-china-to-iran
+   - https://hbyagada.com/blog
+   - https://hbyagada.com/blog/16mndr-lng-cryogenic
+   - https://hbyagada.com/blog/6-types-of-pipe-flanges
+   - https://hbyagada.com/blog/a105-vs-a350-lf2-carbon-steel
+   - https://hbyagada.com/blog/a105-vs-a350-lf2-chemical-composition-sourcing
+   - https://hbyagada.com/blog/asme-b16-5-complete-specification-guide
+   ... 共 108 条
